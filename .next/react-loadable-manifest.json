@@ -16,5 +16,9 @@
     "files": [
       "static/chunks/_app-pages-browser_node_modules_html2canvas_dist_html2canvas_js.js"
     ]
+  },
+  "lib\\offerFormStore.tsx -> ./supabase": {
+    "id": "lib\\offerFormStore.tsx -> ./supabase",
+    "files": []
   }
 }
